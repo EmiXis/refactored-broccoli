@@ -17,7 +17,7 @@ API back-end para una clínica médica. Permite administrar doctores, pacientes 
 
 | Nombre | Matrícula | Rol |
 |---|---|---|
-| Emiliano Narciso Peralta Barrientos | — | Backend / Base de Datos |
+| Emiliano Narciso Peralta Barrientos | 190537 | Backend / Base de Datos |
 
 ---
 
